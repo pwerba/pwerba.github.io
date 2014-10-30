@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #
 # This file contains configuration flags to customize your site
 #
@@ -73,17 +72,3 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
-=======
-# Site settings
-title: Fairfax Art
-email: d.fogel@comcast.net
-description: "Art and Sculpture by Danielle Fogel."
-baseurl: ""
-url: "http://fairfaxart.com"
-#twitter_username: jekyllrb
-#github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-permalink: pretty
->>>>>>> FETCH_HEAD
