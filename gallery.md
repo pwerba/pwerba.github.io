@@ -4,8 +4,11 @@ title: Gallery
 permalink: /gallery/
 ---
 ###Recent Work
-![](/images/blackbird1.jpg)
-![](/images/blackbird2.jpg)
+![blackbird](/images/blackbird1.jpg)
+
+mixed media blackbird
+
+![blackbird](/images/blackbird2.jpg)
 ![](/images/blackbird3.jpg)
 ![](/images/blackbird4.jpg)
 ![](/images/blackbird5.jpg)
@@ -60,6 +63,6 @@ permalink: /gallery/
 ![](/images/bridge.jpg)
 ![](/images/charms.jpg)
 ![](/images/devilkite.jpg)
-![](/images/DSCN1660.jpg)
-![](/images/DSCN1670.jpg)
-![](/images/DSCN1876.jpg)
+![](/images/DSCN1660.JPG)
+![](/images/DSCN1670.JPG)
+![bowkite#4](/images/DSCN1876.JPG)
