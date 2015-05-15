@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![pic](../images/winsomeangel.jpg)
+![pic](/images/winsomeangel.jpg)
 
 ## Danielle Fogel
 
