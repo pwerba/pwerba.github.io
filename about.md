@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![pic](/images/winsomeangel.jpg)
+![pic](images/winsomeangel.jpg)
 
-### Danielle Fogel
+## Danielle Fogel
 
 
 **Danielle Fogel is an artist living in Fairfax, CA.  Originally from Houston Texas, she came to the S.F. Bay Area to earn a B.F.A. from the San Francisco Art Institute.  Danielle is a strong advocate of Arts Education and involved with local foundations and institutions that support the arts and humanities in the schools.**
