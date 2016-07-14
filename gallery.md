@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
-###Recent Work
+### Recent Work
 ![blackbird](/images/blackbird1.jpg)
 
 mixed media blackbird
@@ -45,7 +45,7 @@ mixed media blackbird
 ![](/images/IMG_3298.jpg)
 ![](/images/IMG_3301.jpg)
 
-###Early Works
+### Early Works
 ![](/images/blindfaith.jpg)
 ![](/images/blowingsmoke.jpg)
 ![](/images/duckdream.jpg)
@@ -53,7 +53,7 @@ mixed media blackbird
 ![](/images/DSCN2913.JPG)
 ![](/images/DSCN3511.JPG)
 
-###Kites
+### Kites
 ![](/images/winged_things.jpg)
 ![](/images/anannuciation.jpg)
 ![](/images/symbolicbox1.jpg)
@@ -65,4 +65,7 @@ mixed media blackbird
 ![](/images/devilkite.jpg)
 ![](/images/DSCN1660.JPG)
 ![](/images/DSCN1670.JPG)
-![bowkite#4](/images/DSCN1876.JPG)
+
+Tensioned sail carbon fiber and tyvek 
+
+![](/images/DSCN1876.JPG)
